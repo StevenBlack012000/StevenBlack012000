@@ -16,8 +16,6 @@
 - 📱 Desarrollo de sistemas de información: Java, Python, SQL, etc.
 - 🛠️ Herramientas adicionales: Git, Docker, etc.
 
-## Proyectos Destacados
-
 ## Proyecto Destacado
 
 - [Transportation and Tourism](https://github.com/StevenBlack012000/transportation-and-tourism):
